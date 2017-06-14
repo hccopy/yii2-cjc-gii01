@@ -31,3 +31,5 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \cjc\gii\AutoloadExample::widget(); ?>```#yii2-cjc-gii01
+
+![s](https://github.com/hccopy/yii2-cjc-gii01/blob/master/gii_1.png)
