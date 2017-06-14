@@ -1,0 +1,24 @@
+{
+    "name": "hccopy/yii2-cjc-gii01",
+    "description": "cDescription",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "cjc",
+            "email": "282161698@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "cjc\\gii\\": ""
+        }
+    },
+    "extra": {
+        "bootstrap": "cjc\\gii\\Bootstrap"
+    }    
+}
