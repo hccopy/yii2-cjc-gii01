@@ -22,6 +22,8 @@ or add
 to the require section of your `composer.json` file.
 
 
+![image](https://github.com/hccopy/yii2-cjc-gii01/gii_1.png)
+
 Usage
 -----
 
