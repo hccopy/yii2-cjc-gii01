@@ -22,7 +22,7 @@ or add
 to the require section of your `composer.json` file.
 
 
-![image](https://github.com/hccopy/yii2-cjc-gii01/gii_1.png)
+![image](https://github.com/hccopy/yii2-cjc-gii01/blob/master/gii_1.png)
 
 Usage
 -----
