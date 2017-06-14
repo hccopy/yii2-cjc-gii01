@@ -23,6 +23,8 @@ to the require section of your `composer.json` file.
 
 
 ![image](https://github.com/hccopy/yii2-cjc-gii01/blob/master/gii_1.png)
+![image](https://github.com/hccopy/yii2-cjc-gii01/blob/master/gii_2.png)
+![image](https://github.com/hccopy/yii2-cjc-gii01/blob/master/gii_3.png)
 
 Usage
 -----
